@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) test
+![Rats Eye View](https://img.itch.zone/aW1nLzgwMjQ5MDAucG5n/315x250%23c/bgxCxE.png) test
 
 ### Large image
 
